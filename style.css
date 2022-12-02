@@ -36,5 +36,5 @@ img{
     left: 20px;
     position: absolute;
     transform: rotate(-21deg);
-    
+    clip-path: circle(50% at 50% 50%);
 }
